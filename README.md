@@ -41,5 +41,5 @@ The database includes the following tables:
 12. **order_line**: Contains details about books within each order.
 13. **shipping_method**: Lists available shipping options.
 14. **order_history**: Tracks the status
-    ## entity relational disgram
+    ## entity relational diagram
     ![image](https://github.com/user-attachments/assets/86ce2f12-4136-4ef0-9208-3311b117dafb)
